@@ -1,3 +1,4 @@
+<h2 class="blog-excerpts--header">Blog</h2>
 <section class="blog-excerpts--wrapper">
   {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
   {% for post in posts limit:4 %}

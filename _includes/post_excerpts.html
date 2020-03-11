@@ -1,0 +1,10 @@
+<section class="blog-excerpts--wrapper">
+  {% assign posts = site.posts | where_exp:"post","post.url != page.url" %}
+  {% for post in posts limit:4 %}
+    <a href="{{ post.url }}" class="blog-excerpts--item">
+      <h2 class="blog-excerpts--heading">{{ post.title }}</h2>
+      <img src="{{post.excerpt_image}}" class="blog-excerpts--image" />
+      <div class="blog-excerpts--excerpt">{{ post.excerpt }}</div>
+    </a>
+  {% endfor %}
+</section>

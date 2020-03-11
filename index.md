@@ -6,7 +6,7 @@ layout: default
 ---
 
 <section class="header--wrapper">
-  <img class="header--image" src="https://place-hold.it/300x500" />
+  <img class="header--image" src="assets/images/app-header.jpg" />
   <div class="header--main">
     <h1 class="header--title">Back to Plants</h1>
     <h2 class="header--sub-title">Guidance to vegan happiness</h2>
@@ -74,12 +74,5 @@ layout: default
   </div>
 </section>
 
-<section class="blog-excerpts--wrapper">
-  {% for post in site.posts limit:4 %}
-    <a href="{{ post.url }}" class="blog-excerpts--item">
-        <h2 class="blog-excerpts--heading">{{ post.title }}</h2>
-        <img src="{{post.teaser_image}}" class="blog-excerpts--image" />
-        <div class="blog-excerpts--excerpt">{{ post.excerpt }}</div>
-    </a>
-  {% endfor %}
-</section>
+{% include post_excerpts.html %}
+

@@ -1,6 +1,7 @@
 $white: #ffffff;
 $grey-100: #f2f0f3;
 $grey-700: #3B2E33;
+$border-radius: 10px;
 
 
 $unit: 1rem;
@@ -120,4 +121,55 @@ body {
   font-weight: 700;
   font-size: $spacing-600;
   margin-bottom: 0;
+}
+
+// ----------------------
+
+.blog-excerpts--wrapper {
+  display: flex;
+
+  @media only screen and (min-width: 600px) {
+    overflow: scroll;
+  }
+}
+
+.blog-excerpts--heading {
+  color: $grey-700;
+  order: 2;
+  margin-bottom: 0;
+  padding-left: $spacing-500;
+  padding-right: $spacing-500;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  font-size: $spacing-600;
+}
+
+.blog-excerpts--excerpt {
+  order: 3;
+  color: $grey-700;
+  padding-left: $spacing-500;
+  padding-right: $spacing-500;
+}
+
+.blog-excerpts--item {
+  width: 250px;
+  margin-left: $spacing-500;
+  background-color: $white;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  border-radius: $border-radius;
+
+
+}
+
+.blog-excerpts--image {
+  display: block;
+  order: 1;
+  border-top-left-radius: $border-radius;
+  border-top-right-radius: $border-radius;
+}
+
+.blog-excerpts--item:first-child {
+  margin-left: 0;
 }

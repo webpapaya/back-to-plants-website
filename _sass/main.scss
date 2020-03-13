@@ -58,6 +58,8 @@ body {
   border-radius: $spacing-300;
   margin-bottom: $spacing-700;
   padding-bottom: $spacing-400;
+  display: flex;
+  flex-direction: column;
 
   @media only screen and (min-width: $screen_xs) {
     display: grid;
@@ -72,6 +74,11 @@ body {
   max-width: 350px;
   margin: auto;
   display: block;
+  order: 2;
+  margin-top: $spacing-500;
+  @media only screen and (min-width: $screen_xs) {
+    margin-top: 0;
+  }
 }
 
 .header--main {
@@ -364,15 +371,22 @@ body {
 }
 
 // -----
-.navigation--logo {
-  margin-left: auto;
+.navigation--logo--centered {
   display: block;
   width: 150px;
+  margin: auto;
+}
+
+.navigation--logo--right {
+  display: block;
+  width: 150px;
+  margin-left: auto;
 }
 
 .navigation--wrapper {
   display: flex;
   align-items: flex-end;
+  justify-content: space-around;
 }
 
 .navigation--back {

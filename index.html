@@ -1,0 +1,12 @@
+<html>
+<head><title>Just redirecting</title></head>
+<body>
+<script>
+var userLang = navigator.language || navigator.userLanguage;
+if(userLang.indexOf('de') !== -1) {
+  document.location.href = '/de/';
+} else {
+  document.location.href = '/en/';
+}
+</script>
+</html>

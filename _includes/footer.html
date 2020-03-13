@@ -1,8 +1,21 @@
+
 <img class="footer--logo" src="/assets/images/flower-green.svg" alt="Back to plants"/>
 
 <footer class="footer--wrapper">
-  <a class="footer--link" href="/privacy-policy">Privacy Policy</a>
-  <a class="footer--link" href="/imprint">Imprint</a>
+  <a class="footer--link" href="/privacy-policy">
+    {% if page.language == "de" %}
+      Datenschutz
+    {% else %}
+      Privacy Policy
+    {% endif %}
+  </a>
+  <a class="footer--link" href="/imprint">
+    {% if page.language == "de" %}
+      Impressum
+    {% else %}
+      Imprint
+    {% endif %}
+  </a>
 </footer>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-156080695-2"></script>

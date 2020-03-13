@@ -160,7 +160,7 @@ body {
   box-sizing: border-box;
   grid-gap: $spacing-500;
   width:100%;
-  grid-template-columns: repeat(2,  minmax(0, 1fr));
+  grid-template-columns: repeat(1,  minmax(0, 1fr));
   margin-bottom: $spacing-700;
 
   @media only screen and (min-width: $screen_sm) {

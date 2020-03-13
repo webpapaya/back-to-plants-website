@@ -8,6 +8,12 @@
     {%- include header.html -%}
 
     <div class="page-content">
+      <nav class="navigation--wrapper">
+        <a href="/" class="navigation--back"> &lt; Back</a>
+        <img src="/assets/images/logo-green.svg" alt="Back to Plants Logo" class="navigation--logo"/>
+      </nav>
+
+
       <main class="post-wrapper" aria-label="Content">
         {% if page.header_image %}
           <img src="{{page.header_image}}" class="post--image"/>

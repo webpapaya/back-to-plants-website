@@ -6,7 +6,7 @@ layout: default
 ---
 
 <section class="header--wrapper">
-  <img class="header--image" src="assets/images/app-header.jpg" />
+  <img class="header--image" src="assets/images/app-header.png" />
   <div class="header--main">
     <h1 class="header--title">Back to Plants</h1>
     <h2 class="header--sub-title">Guidance to vegan happiness</h2>

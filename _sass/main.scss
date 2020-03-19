@@ -83,7 +83,7 @@ body {
   justify-content: center;
   flex-direction: column;
   display: flex;
-  margin-top: $spacing-500;
+  margin-top: $spacing-200;
   padding-right: $spacing-500;
   padding-left: $spacing-500;
 
@@ -113,6 +113,9 @@ body {
   line-height: 1.2;
 }
 
+.header--paragraph {
+  margin-top: $spacing-300;
+}
 // ----------------------
 
 .app-section--wrapper {
@@ -408,8 +411,13 @@ body {
 // -----
 .navigation--logo--centered {
   display: block;
-  width: 150px;
+  width: 120px;
   margin: auto;
+
+  @media only screen and (min-width: $screen_sm) {
+    width: 150px;
+
+  }
 }
 
 .navigation--logo--right {

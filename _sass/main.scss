@@ -33,9 +33,7 @@ $font-size-900: 4rem;
 $screen_xs: 600px;
 $screen_sm: 740px;
 
-* {
-  box-sizing: border-box;
-}
+
 
 body {
   background: $grey-100;
@@ -243,6 +241,10 @@ body {
 
 // -------------------
 
+.newsletter--wrapper * {
+  box-sizing: border-box;
+}
+
 .newsletter--wrapper {
   background-color: $green-400;
   color: $grey-100;
@@ -319,11 +321,13 @@ body {
 .newsletter--heading {
   font-family: 'Amatic SC', cursive;
   font-size: $font-size-700;
+  margin-bottom: 0;
 }
 
 .newsletter--subheading {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: $font-size-400;
+  margin-top: 0;
 }
 
 

@@ -24,7 +24,7 @@ language: en
     novalidate
   >
     <h2 class="newsletter--heading">Sign-Up and don't miss the launch</h2>
-    <p class="newsletter--subheading">Be the first to receive the download link on the launch date! (568 of 800 available tickets)</p>
+    <p class="newsletter--subheading">Register for exclusive download link (568/800 available)</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">
         <input type="checkbox" id="gdpr_92201" name="gdpr[92201]" value="Y" checked class="av-checkbox "><span>Email</span>

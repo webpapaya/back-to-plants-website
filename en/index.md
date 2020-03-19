@@ -9,10 +9,9 @@ language: en
 <section class="header--wrapper">
   <img class="header--image" src="/assets/images/app-header.png" />
   <div class="header--main">
-    <h1 class="header--title">Back to Plants</h1>
     <h2 class="header--sub-title">Guidance to vegan happiness</h2>
     <p class="header--paragraph">
-      Here is your guidance through a simple vegan kitchen with perfectly balanced recipes and a handful of yumminess
+      A simple vegan kitchen with perfectly balanced recipes and a handful of yumminess
     </p>
 
   <form

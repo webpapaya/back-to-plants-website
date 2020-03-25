@@ -42,7 +42,7 @@ language: de
       <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email" class="newsletter--form-input" />
       <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button newsletter--submit" />
     </div>
-    <p class="newsletter--notice">You can unsubscribe at any time by clicking the link in the footer of our emails. We use Mailchimp as our marketing platform. By clicking to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+    <p class="newsletter--notice">Sie können den Newsletter jederzeit abbestellen, indem Sie auf den Link in der Fußzeile unserer E-Mails klicken. Wir benutzen Mailchimp als unsere Marketing-Plattform. Mit dem Klicken auf "Abonnieren" bestätigen Sie, dass Ihre Daten an Mailchimp zur Bearbeitung weitergeleitet werden. Erfahren Sie hier mehr über die Datenschutzpraktiken von Mailchimp. <a href="https://mailchimp.com/legal/" target="_blank">Mehr erfahren.</a></p>
     </form>
   </div>
 </section>

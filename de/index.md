@@ -79,5 +79,47 @@ language: de
   </div>
 </section>
 
+
+<h2 class="app-section--heading">Warum du unsere App ausprobieren solltest und wie sie funktioniert</h2>
+<section class="two-column-section--wrapper image-left">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">Schnell & einfach</h2>
+    <p class="two-column-section--paragraph">
+      Unser Ziel ist es, eine vegane Küchenhilfe zur Verfügung zu stellen, die dir eine einfache und unterhaltsame Zeit beim Kochen ermöglicht. Deswegen haben wir eine App entwickelt die einen intuitiven und minimalen Ansatz verfolgt. Ohne Zugangs- oder versteckten Barrieren - nutze unsere App ohne eine erforderliche Anmeldung.
+    </p>
+  </div>
+</section>
+
+<section class="two-column-section--wrapper image-right">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">…wähle dein Rezept</h2>
+    <p class="two-column-section--paragraph">
+      Wir haben Pakete zu verschiedenen Themen erstellt, die jeweils 5-8 Rezepte enthalten. Wir bieten dir zwei Pakete kostenlose an, um uns besser kennen zu lernen. Wenn dir unsere App gefällt, kannst du aus einem Abonnement oder einem Pay-per-Package-Modell wählen. Wir haben In-App Purchases implementiert, um für dich die Zahlung so bequem als möglich zu gestalten.
+    </p>
+  </div>
+</section>
+
+<section class="two-column-section--wrapper image-left">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">…füge die Zutaten zu deiner Einkaufsliste hinzu</h2>
+    <p class="two-column-section--paragraph">
+      Abhängig von der Personenanzahl, die du bekochen möchtest, erstelle dir mit nur einem Klick eine Einkaufsliste. Während des Einkaufs kannst du mühelos - Lebensmittel für Lebensmittel - von deiner Liste streichen, um so den Überblick zu bewahren.
+    </p>
+  </div>
+</section>
+
+<section class="two-column-section--wrapper image-right">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">…und folge deiner Schritt-für-Schritt-Anleitung zum Kochen</h2>
+    <p class="two-column-section--paragraph">
+      Videos, Fotos, Zutaten, Makronährstoffe und Timer unterstützen bzw. begleiten dich bei der Zubereitung der Rezepte.
+    </p>
+  </div>
+</section>
+
 {% include post_excerpts.html %}
 

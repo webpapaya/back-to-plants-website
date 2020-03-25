@@ -77,5 +77,52 @@ language: en
   </div>
 </section>
 
+
+
+<h2 class="app-section--heading">Why choosing our App and how it works</h2>
+<section class="two-column-section--wrapper image-left">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">Quick & Simple</h2>
+    <p class="two-column-section--paragraph">
+      Our goal is to provide you a vegan kitchen aid, for an easy and fun time while cooking. Therefore, we created an app which pursues an intuitive and minimal approach. No entry or hidden barriers - access our app without a required sign up.
+    </p>
+  </div>
+</section>
+
+<section class="two-column-section--wrapper image-right">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">…choose your recipe</h2>
+    <p class="two-column-section--paragraph">
+      We created packages for different topics, which contain 5-8 recipes each. We offer you two free packages to get to know us better. If you love our app, you can choose a subscription or a pay-per-package model. We implemented In-App Purchases to make your payment as convenient as possible for you.
+    </p>
+  </div>
+</section>
+
+<section class="two-column-section--wrapper image-left">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">…add the ingredients to your shopping list</h2>
+    <p class="two-column-section--paragraph">
+      Depending on the number of people you want to cook for, you can create a shopping list with just one click. While shopping for your groceries you can clear your shopping list - item by item without any effort.
+    </p>
+  </div>
+</section>
+
+<section class="two-column-section--wrapper image-right">
+  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <div class="two-column-section--content">
+    <h2 class="two-column-section--title">…and follow the step-by-step cooking guide</h2>
+    <p class="two-column-section--paragraph">
+      Videos, pictures, ingredients, nutritional facts and timers easily guide you through your cooking session.
+    </p>
+  </div>
+</section>
+
+
+
+
+
 {% include post_excerpts.html %}
 

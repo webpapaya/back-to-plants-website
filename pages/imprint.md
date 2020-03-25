@@ -1,18 +1,42 @@
 ---
 layout: post
-title: Imprint
+title: Impressum
 permalink: /imprint/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Der Sitz des Unternehmens befindet sich in Österreich, daher wird das Impressum in deutscher Sprache angeführt. Bei Anfragen oder Unklarheiten können Sie sich an die unten angeführten Kontaktadressen wenden.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Konzept und technische Umsetzung
+- Sophie Weilguni gemeinsam mit
+- Thomas Mayrhofer
+- Sebastian Mack, BSc
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Impressum
+
+Offenlegungspflicht gemäß § 25 Mediengesetz (MedienG)
+
+https://pipifein-blog.com/impressum/
+
+Medieninhaber/Autor:
+- Sophie Weilguni
+- Hackenberggasse 43-45 / C8
+- 1190 Wien
+- +436781225860
+- office@back-to-plants.com
 
 
-[jekyll-organization]: https://github.com/jekyll
+- Firmenbuchnummer:
+- Firmenbuchgericht:
+- Handelsgericht Wien
+- UID-Nr.: ATU
+
+- Behörde gem. ECG:
+- Kammer:
+
+
+- Anwendbare Vorschriften:
+- Österr. Gewerbeordnung (Bundesgesetzblatt)
+
+
+- Geschäftsführer:
+- Bankverbindung:

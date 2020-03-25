@@ -46,31 +46,34 @@ language: en
   </div>
 </section>
 
-<section class="app-section--wrapper">
-  <img class="app-section--image" src="https://place-hold.it/300x500" />
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
-  </div>
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
-  </div>
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
-  </div>
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
+<section>
+  <h2 class="app-section--heading">We create vegan, balanced, quick and easy recipes for you to…</h2>
+  <div class="app-section--wrapper">
+    <img class="app-section--image" src="https://place-hold.it/300x500" />
+    <div class="app-section--item">
+      <h2 class="app-section--title">…enable conscious eating for a healthy lifestyle</h2>
+      <p class="app-section--paragraph">
+        Vegan recipes support you to live a healthy life - day-by-day. With increased sensitivity for vegetables and fruits, your mindset and way of living will change. Whether you are a single mum, a student or a family, we will provide you a simple guideline. Our goal is to share joy and yumminess with you at its best.
+      </p>
+    </div>
+    <div class="app-section--item">
+      <h2 class="app-section--title">…provide fuel for your daily life / business and fitness</h2>
+      <p class="app-section--paragraph">
+        Back to plants - we bring back unique knowledge of plant-based nutrition back onto your plate. Packaged in easy recipes, we provide you perfectly balanced meals, which satisfies your needs and energizes your system. The increased endurance supports you during your gym time and outdoor activities. Your recovery time will speed up and therefore it will give you energy throughout the day.
+      </p>
+    </div>
+    <div class="app-section--item">
+      <h2 class="app-section--title">…vegan kitchen for health reasons</h2>
+      <p class="app-section--paragraph">
+        This simple and holistic way of eating is a boost for your body and mind. Recent studies have shown that a plant-based diet can have a positive influence on your overall health (e.g. cardiovascular system, gut health, skin glow, mental health, …)
+      </p>
+    </div>
+    <div class="app-section--item">
+      <h2 class="app-section--title">…eat with pleasure</h2>
+      <p class="app-section--paragraph">
+        Yes indeed, vegan kitchen is super tasty and doesn’t have to be complicated – to prepare our recipes you only need 5 main ingredients, a little happiness and some herbs to create your perfectly balanced meal for the day. The app is designed to show you how easy and quick a vegan kitchen can be without any restriction in taste or pleasure. Starting from energizing breakfasts over filling lunch bowls to delicious desserts  – you won't be missing out.
+      </p>
+    </div>
   </div>
 </section>
 

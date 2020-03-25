@@ -116,6 +116,15 @@ body {
 }
 // ----------------------
 
+.app-section--heading {
+  font-family: 'Amatic SC', cursive;
+  font-size: $font-size-900;
+  margin-top: 0;
+  margin-bottom: $spacing-500;
+  text-align: center;
+  line-height: 1.2;
+}
+
 .app-section--wrapper {
   display: grid;
   border-radius: $spacing-300;
@@ -148,11 +157,7 @@ body {
   flex-direction: column;
   padding: $spacing-500;
   @media only screen and (min-width: $screen_sm) {
-    &:nth-child(2n) {
-      justify-content: flex-end;
-    }
-
-    &:nth-child(2n + 1) {
+    & {
       justify-content: flex-start;
     }
   }

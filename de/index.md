@@ -24,8 +24,8 @@ language: de
     target="_blank"
     novalidate
   >
-    <h2 class="newsletter--heading">Sign-Up and don't miss the launch</h2>
-    <p class="newsletter--subheading">Be the first to receive the download link on the launch date! (568 of 800 available tickets)</p>
+    <h2 class="newsletter--heading">Sign-Up and verpasse nicht den Launch</h2>
+    <p class="newsletter--subheading">Erhalte den Download link als erstes! (568 of 800 verfügbare Tickets)</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">
         <input type="checkbox" id="gdpr_92201" name="gdpr[92201]" value="Y" checked class="av-checkbox "><span>Email</span>
@@ -38,7 +38,7 @@ language: de
       </label>
     </fieldset>
     <div class="newsletter--form">
-      <label for="mce-EMAIL" class="newsletter--form-label">Email Address  <span class="asterisk">*</span></label>
+      <label for="mce-EMAIL" class="newsletter--form-label">Email Adresse  <span class="asterisk">*</span></label>
       <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email" class="newsletter--form-input" />
       <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button newsletter--submit" />
     </div>
@@ -47,31 +47,35 @@ language: de
   </div>
 </section>
 
-<section class="app-section--wrapper">
-  <img class="app-section--image" src="https://place-hold.it/300x500" />
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
-  </div>
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
-  </div>
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
-  </div>
-  <div class="app-section--item">
-    <h2 class="app-section--title">Quick and Simple</h2>
-    <p class="app-section--paragraph">
-      Access our app without required sign up and Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-    </p>
+
+<section>
+  <h2 class="app-section--heading">Wir kreieren vegane, ausgeglichene, schnelle und einfache Rezepte für dich, um…</h2>
+  <div class="app-section--wrapper">
+    <img class="app-section--image" src="https://place-hold.it/300x500" />
+    <div class="app-section--item">
+      <h2 class="app-section--title">…einen gesunden Lebensstil mittels bewusster Ernährung zu ermöglichen.</h2>
+      <p class="app-section--paragraph">
+        Das Motto Back to Plants erweckt vor allem die Achtsamkeit und Sensibilität für unser tägliches Essen. back to the roots - durch einfaches und minimalistisches Kochen. Durch unseren Fokus auf Back to the roots, trägt es dazu bei, dass sich das Mindset steigert und verbessert, man auf das wesentliche seine Küche reduziert und somit eine positive Veränderung im tägliche Leben verspürt.
+      </p>
+    </div>
+    <div class="app-section--item">
+      <h2 class="app-section--title">…das Energielevel für deinen Alltag und deine Fitness zu erhöhen.</h2>
+      <p class="app-section--paragraph">
+        Back to plants - wir holen das einzigartige Wissen über pflanzlich basierende Ernährung zurück auf deinen Teller. In einfache Rezepte verpackt, bieten wir dir perfekt ausgewogene Mahlzeiten, die deine Bedürfnisse befriedigen und deinen Körper energetisieren. Die gesteigerte Ausdauer unterstützt dich im Fitnessstudio und bei Outdoor-Aktivitäten. Deine Regenerationszeit beschleunigt sich und gibt dir Energie über den ganzen Tag.
+      </p>
+    </div>
+    <div class="app-section--item">
+      <h2 class="app-section--title">…um gesundheitlichen Problemen vorzubeugen oder diese zu verbessern</h2>
+      <p class="app-section--paragraph">
+        Diese einfache und ausgewogene Art zu essen unterstützt dich sowohl körperlich als auch mental. Aktuelle Studien haben gezeigt, dass die pflanzliche Ernährung einen positiven Einfluss auf deine allgemeine Gesundheit haben kann (z.B. Herz-Kreislauf-System, Darmgesundheit, Hautbild, geistige Gesundheit, ...).
+      </p>
+    </div>
+    <div class="app-section--item">
+      <h2 class="app-section--title">…um trotz bewusster Ernährung mit Freude zu essen</h2>
+      <p class="app-section--paragraph">
+        Ja! - die vegane Küche schmeckt ausgezeichnet und muss nicht kompliziert sein - Bei unseren Rezepten brauchst du nur 5 Hauptzutaten, ein wenig Freude und einige Kräuter, um deine perfekt ausgewogene Mahlzeit für den Tag zu kreieren. Die App zeigt dir wie einfach und schnell die vegane Küche ist, ohne Einschränkung von Geschmack und Genuss. Vom herzhaften Frühstück, über nährstoffreiche Lunch-Bowls bis hin zu köstlichen Desserts - ohne etwas zu vermissen.
+      </p>
+    </div>
   </div>
 </section>
 

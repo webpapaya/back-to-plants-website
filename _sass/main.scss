@@ -41,9 +41,10 @@ body {
   margin-top: 0;
   font-family: 'Open Sans Condensed', sans-serif;
   line-height: 1.7;
-  color: $grey-700;
+  color: $green-500;
   margin-bottom: $spacing-700;
 }
+
 
 .page-content {
   max-width: 1200px;
@@ -208,7 +209,7 @@ body {
 }
 
 .blog-excerpts--heading {
-  color: $grey-700;
+  color: $green-500;
   order: 2;
   margin-bottom: 0;
   padding-left: $spacing-500;
@@ -221,7 +222,7 @@ body {
 
 .blog-excerpts--excerpt {
   order: 3;
-  color: $grey-700;
+  color: $green-500;
   padding-left: $spacing-500;
   padding-right: $spacing-500;
   padding-bottom: $spacing-500;

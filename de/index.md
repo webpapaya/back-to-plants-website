@@ -55,7 +55,7 @@ language: de
     <div class="app-section--item">
       <h2 class="app-section--title">…einen gesunden Lebensstil mittels bewusster Ernährung zu ermöglichen.</h2>
       <p class="app-section--paragraph">
-        Das Motto Back to Plants erweckt vor allem die Achtsamkeit und Sensibilität für unser tägliches Essen. back to the roots - durch einfaches und minimalistisches Kochen. Durch unseren Fokus auf Back to the roots, trägt es dazu bei, dass sich das Mindset steigert und verbessert, man auf das wesentliche seine Küche reduziert und somit eine positive Veränderung im tägliche Leben verspürt.
+        Mit Back to Plants streben wir aber nicht nur danach tolle Rezepte zu zaubern. Wir wollen in dir die Achtsamkeit und Sensibilität für das tägliche Essen wecken. Frei nach dem Motto “back to the roots” stehen wir für minimalistisches Kochen, dass sich auf das Wesentliche konzentriert. Du brauchst also nicht zu verzweifeln, wenn Kochen für dich noch ein Fremdwort ist. Mit unseren Rezepten kann jeder schnell und einfach köstliche vegane Gerichte zubereiten. Unser Ziel ist es, mit dir Freude und Yuminess zu teilen.
       </p>
     </div>
     <div class="app-section--item">

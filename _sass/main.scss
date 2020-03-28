@@ -75,6 +75,7 @@ body {
   order: 2;
   margin-top: $spacing-500;
   @media only screen and (min-width: $screen_xs) {
+    order: 1;
     margin-top: 0;
   }
 }
@@ -88,6 +89,7 @@ body {
   padding-left: $spacing-500;
 
   @media only screen and (min-width: $screen_xs) {
+    order: 2;
     margin-top: 0;
     padding-right: $spacing-700;
     padding-left: $spacing-500;

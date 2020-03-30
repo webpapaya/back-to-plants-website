@@ -49,7 +49,6 @@ language: en
 <section>
   <h2 class="app-section--heading">We create vegan, balanced, quick and easy recipes for you to…</h2>
   <div class="app-section--wrapper">
-    <img class="app-section--image" src="https://place-hold.it/300x500" />
     <div class="app-section--item">
       <h2 class="app-section--title">…enable conscious eating for a healthy lifestyle</h2>
       <p class="app-section--paragraph">
@@ -81,7 +80,7 @@ language: en
 
 <h2 class="app-section--heading">Why choosing our App and how it works</h2>
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/sophie.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">Quick & Simple</h2>
     <p class="two-column-section--paragraph">

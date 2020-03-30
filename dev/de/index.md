@@ -51,7 +51,6 @@ language: de
 <section>
   <h2 class="app-section--heading">Wir kreieren vegane, ausgeglichene, schnelle und einfache Rezepte für dich, um…</h2>
   <div class="app-section--wrapper">
-    <img class="app-section--image" src="https://place-hold.it/300x500" />
     <div class="app-section--item">
       <h2 class="app-section--title">…einen gesunden Lebensstil mittels bewusster Ernährung zu ermöglichen.</h2>
       <p class="app-section--paragraph">
@@ -82,7 +81,7 @@ language: de
 
 <h2 class="app-section--heading">Warum du unsere App ausprobieren solltest und wie sie funktioniert</h2>
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/sophie.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">Schnell & einfach</h2>
     <p class="two-column-section--paragraph">

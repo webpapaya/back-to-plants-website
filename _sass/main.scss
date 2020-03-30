@@ -135,14 +135,14 @@ body {
   margin-bottom: $spacing-700;
 
   @media only screen and (min-width: $screen_sm) {
-    grid-template-columns: 1fr 200px 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
   }
 }
 
 .app-section--image {
   width: 100%;
-  display: block;
+  display: none;
   grid-row-start: 3;
   max-width: 350px;
   margin: auto;

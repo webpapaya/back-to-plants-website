@@ -92,7 +92,7 @@ language: de
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/packages.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…wähle dein Rezept</h2>
     <p class="two-column-section--paragraph">
@@ -102,7 +102,7 @@ language: de
 </section>
 
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/shopping.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…füge die Zutaten zu deiner Einkaufsliste hinzu</h2>
     <p class="two-column-section--paragraph">
@@ -112,7 +112,7 @@ language: de
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/recipe.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…und folge deiner Schritt-für-Schritt-Anleitung zum Kochen</h2>
     <p class="two-column-section--paragraph">
@@ -121,5 +121,5 @@ language: de
   </div>
 </section>
 
-{% include post_excerpts.html %}
+<!-- {% include post_excerpts.html %} -->
 

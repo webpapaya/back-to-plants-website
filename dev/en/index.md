@@ -91,7 +91,7 @@ language: en
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/packages.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…choose your recipe</h2>
     <p class="two-column-section--paragraph">
@@ -101,7 +101,7 @@ language: en
 </section>
 
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/shopping.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…add the ingredients to your shopping list</h2>
     <p class="two-column-section--paragraph">
@@ -111,7 +111,7 @@ language: en
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="https://place-hold.it/300x500" />
+  <img class="two-column-section--image" src="/assets/images/recipe.png" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…and follow the step-by-step cooking guide</h2>
     <p class="two-column-section--paragraph">
@@ -124,5 +124,5 @@ language: en
 
 
 
-{% include post_excerpts.html %}
+<!-- {% include post_excerpts.html %} -->
 

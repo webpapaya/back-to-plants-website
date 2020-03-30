@@ -26,7 +26,7 @@ title: Guidance to vegan happiness
     novalidate
   >
     <h2 class="newsletter--heading">Sign-Up and verpasse nicht den Launch</h2>
-    <p class="newsletter--subheading">Erhalte den Download link als erstes! (568 von 800 verfügbaren Tickets)</p>
+    <p class="newsletter--subheading">Erhalte den Download link als erstes! (bereits 568 Early-Birds)</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">
         <input type="checkbox" id="gdpr_92201" name="gdpr[92201]" value="Y" checked class="av-checkbox "><span>Email</span>

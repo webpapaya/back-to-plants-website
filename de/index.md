@@ -8,7 +8,7 @@ title: Guidance to vegan happiness
 ---
 
 <section class="header--wrapper">
-  <img class="header--image" src="/assets/images/app-header.png" />
+  <img class="header--image" src="/assets/images/app-header.png" alt="Back to Plants app" />
   <div class="header--main">
     <h1 class="header--title">Back to Plants</h1>
     <h2 class="header--sub-title">Guide um vegan glücklich zu werden</h2>
@@ -82,7 +82,7 @@ title: Guidance to vegan happiness
 
 <h2 class="app-section--heading">Warum du unsere App ausprobieren solltest und wie sie funktioniert</h2>
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="/assets/images/sophie.png" />
+  <img class="two-column-section--image" src="/assets/images/sophie.png" alt="Schnell & einfach" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">Schnell & einfach</h2>
     <p class="two-column-section--paragraph">
@@ -92,7 +92,7 @@ title: Guidance to vegan happiness
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="/assets/images/packages.png" />
+  <img class="two-column-section--image" src="/assets/images/packages.png" alt="Recept Übersicht" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…wähle dein Rezept</h2>
     <p class="two-column-section--paragraph">
@@ -102,7 +102,7 @@ title: Guidance to vegan happiness
 </section>
 
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="/assets/images/shopping.png" />
+  <img class="two-column-section--image" src="/assets/images/shopping.png" alt="Einkaufsliste" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…füge die Zutaten zu deiner Einkaufsliste hinzu</h2>
     <p class="two-column-section--paragraph">
@@ -112,7 +112,7 @@ title: Guidance to vegan happiness
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="/assets/images/recipe.png" />
+  <img class="two-column-section--image" src="/assets/images/recipe.png" alt="Rezept" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…und folge deiner Schritt-für-Schritt-Anleitung zum Kochen</h2>
     <p class="two-column-section--paragraph">

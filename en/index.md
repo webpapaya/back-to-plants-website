@@ -8,7 +8,7 @@ title: Guidance to vegan happiness
 ---
 
 <section class="header--wrapper">
-  <img class="header--image" src="/assets/images/app-header.png" />
+  <img class="header--image" src="/assets/images/app-header.png" alt="Back to Plants app" />
   <div class="header--main">
     <h2 class="header--sub-title">Guidance to vegan happiness</h2>
     <p class="header--paragraph">
@@ -81,7 +81,7 @@ title: Guidance to vegan happiness
 
 <h2 class="app-section--heading">Why choosing our App and how it works</h2>
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="/assets/images/sophie.png" />
+  <img class="two-column-section--image" src="/assets/images/sophie.png" alt="Quick and simple"/>
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">Quick & Simple</h2>
     <p class="two-column-section--paragraph">
@@ -91,7 +91,7 @@ title: Guidance to vegan happiness
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="/assets/images/packages.png" />
+  <img class="two-column-section--image" src="/assets/images/packages.png" alt="Package overview"/>
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…choose your recipe</h2>
     <p class="two-column-section--paragraph">
@@ -101,7 +101,7 @@ title: Guidance to vegan happiness
 </section>
 
 <section class="two-column-section--wrapper image-left">
-  <img class="two-column-section--image" src="/assets/images/shopping.png" />
+  <img class="two-column-section--image" src="/assets/images/shopping.png" alt="Shopping cart" />
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…add the ingredients to your shopping list</h2>
     <p class="two-column-section--paragraph">
@@ -111,7 +111,7 @@ title: Guidance to vegan happiness
 </section>
 
 <section class="two-column-section--wrapper image-right">
-  <img class="two-column-section--image" src="/assets/images/recipe.png" />
+  <img class="two-column-section--image" src="/assets/images/recipe.png" alt="Recipe overview"/>
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…and follow the step-by-step cooking guide</h2>
     <p class="two-column-section--paragraph">

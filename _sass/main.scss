@@ -475,6 +475,11 @@ body {
 .two-column-section--title {
   font-size: $font-size-800;
   font-family: 'Amatic SC', cursive;
+  margin-bottom: 0;
+}
+
+.two-column-section--paragraph {
+  margin-top: 0;
 }
 
 .two-column-section--image {

@@ -4,6 +4,7 @@
 
 layout: default
 language: de
+title: Guidance to vegan happiness
 ---
 
 <section class="header--wrapper">
@@ -25,7 +26,7 @@ language: de
     novalidate
   >
     <h2 class="newsletter--heading">Sign-Up and verpasse nicht den Launch</h2>
-    <p class="newsletter--subheading">Erhalte den Download link als erstes! (568 of 800 verfügbare Tickets)</p>
+    <p class="newsletter--subheading">Erhalte den Download link als erstes! (568 von 800 verfügbare Tickets)</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">
         <input type="checkbox" id="gdpr_92201" name="gdpr[92201]" value="Y" checked class="av-checkbox "><span>Email</span>

@@ -4,6 +4,7 @@
 
 layout: default
 language: en
+title: Guidance to vegan happiness
 ---
 
 <section class="header--wrapper">

@@ -14,7 +14,6 @@ title: Guidance to vegan happiness
     <p class="header--paragraph">
       A simple vegan kitchen with perfectly balanced recipes and a handful of yumminess
     </p>
-
   <form
     action="https://back-to-plants.us19.list-manage.com/subscribe/post?u=1048c4e168940952bbda912da&amp;id=8a430c324d"
     method="post"

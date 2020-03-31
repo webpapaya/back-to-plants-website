@@ -11,11 +11,10 @@ title: Guidance to vegan happiness
   <img class="header--image" src="/assets/images/app-header.png" alt="Back to Plants app" />
   <div class="header--main">
     <h1 class="header--title">Back to Plants</h1>
-    <h2 class="header--sub-title">Guide um vegan glücklich zu werden</h2>
+    <h2 class="header--sub-title">Guidance to vegan happiness</h2>
     <p class="header--paragraph">
-      Here is your guidance through a simple vegan kitchen with perfectly balanced recipes and a handful of yumminess
+      Eine einfache vegane Küche mit ausgewogenen Rezepten und vollem Geschmack
     </p>
-
   <form
     action="https://back-to-plants.us19.list-manage.com/subscribe/post?u=1048c4e168940952bbda912da&amp;id=8a430c324d"
     method="post"

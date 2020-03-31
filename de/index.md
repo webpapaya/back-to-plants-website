@@ -95,7 +95,7 @@ title: Guidance to vegan happiness
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…wähle dein Rezept</h2>
     <p class="two-column-section--paragraph">
-      Wir haben Pakete zu verschiedenen Themen erstellt, die jeweils 5-8 Rezepte enthalten. Wir bieten dir zwei Pakete kostenlose an, um uns besser kennen zu lernen. Wenn dir unsere App gefällt, kannst du aus einem Abonnement oder einem Pay-per-Package-Modell wählen. Wir haben In-App Purchases implementiert, um für dich die Zahlung so bequem als möglich zu gestalten.
+      Wir haben Pakete zu verschiedenen Themen erstellt, die jeweils 5-8 Rezepte enthalten. Wir bieten dir zwei Pakete kostenlos an, um uns besser kennen zu lernen. Wenn dir unsere App gefällt, kannst du aus einem Abonnement oder einem Pay-per-Package-Modell wählen. Wir haben In-App Purchases implementiert, um für dich die Zahlung so bequem als möglich zu gestalten.
     </p>
   </div>
 </section>

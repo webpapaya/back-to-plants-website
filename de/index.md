@@ -25,7 +25,7 @@ title: Guidance to vegan happiness
     novalidate
   >
     <h2 class="newsletter--heading">Sign-Up and verpasse nicht den Launch</h2>
-    <p class="newsletter--subheading">Erhalte den Download link als erstes! (bereits 568 Early-Birds)</p>
+    <p class="newsletter--subheading">Erhalte den Download Link als Erstes! (bereits 568 Early-Birds)</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">
         <input type="checkbox" id="gdpr_92201" name="gdpr[92201]" value="Y" checked class="av-checkbox "><span>Email</span>
@@ -85,7 +85,7 @@ title: Guidance to vegan happiness
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">Schnell & einfach</h2>
     <p class="two-column-section--paragraph">
-      Unser Ziel ist es, eine vegane Küchenhilfe zur Verfügung zu stellen, die dir eine einfache und unterhaltsame Zeit beim Kochen ermöglicht. Deswegen haben wir eine App entwickelt die einen intuitiven und minimalen Ansatz verfolgt. Ohne Zugangs- oder versteckten Barrieren - nutze unsere App ohne eine erforderliche Anmeldung.
+      Unser Ziel ist es, eine vegane Küchenhilfe zur Verfügung zu stellen, die dir eine einfache und unterhaltsame Zeit beim Kochen ermöglicht. Deswegen haben wir eine App entwickelt die einen intuitiven und minimalen Ansatz verfolgt. Keine Zugangs- oder versteckte Barrieren - nutze unsere App ohne erforderliche Anmeldung.
     </p>
   </div>
 </section>
@@ -105,7 +105,7 @@ title: Guidance to vegan happiness
   <div class="two-column-section--content">
     <h2 class="two-column-section--title">…füge die Zutaten zu deiner Einkaufsliste hinzu</h2>
     <p class="two-column-section--paragraph">
-      Abhängig von der Personenanzahl, die du bekochen möchtest, erstelle dir mit nur einem Klick eine Einkaufsliste. Während des Einkaufs kannst du mühelos - Lebensmittel für Lebensmittel - von deiner Liste streichen, um so den Überblick zu bewahren.
+      Abhängig von der Personenanzahl, die du bekochen möchtest, erstelle dir mit nur einem Klick eine Einkaufsliste. Während des Einkaufs kannst du mühelos Lebensmittel von deiner Liste streichen, um so den Überblick zu bewahren.
     </p>
   </div>
 </section>

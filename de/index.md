@@ -24,7 +24,7 @@ title: Guidance to vegan happiness
     target="_blank"
     novalidate
   >
-    <h2 class="newsletter--heading">Sign-Up and verpasse nicht den Launch</h2>
+    <h2 class="newsletter--heading">Sign-Up und verpasse nicht den Launch</h2>
     <p class="newsletter--subheading">Erhalte den Download Link als Erstes! (bereits 568 Early-Birds)</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">

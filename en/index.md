@@ -5,7 +5,6 @@
 layout: default
 language: en
 title: Guidance to vegan happiness
-description: Our goal is to provide you a vegan kitchen aid, for an easy and fun time while cooking. Therefore, we created an app which pursues an intuitive and minimal approach. No entry or hidden barriers - access our app without a required sign up.
 ---
 
 <section class="header--wrapper">

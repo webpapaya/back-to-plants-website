@@ -1,5 +1,11 @@
+---
+title: Redirect
+---
 <html>
-<head><title>Just redirecting</title></head>
+{%- include head.html -%}
+<link rel="alternate" hreflang="de" href="{{ site.url }}/de">
+<link rel="alternate" hreflang="en" href="{{ site.url }}/en">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}/en">
 <body>
 <script>
 var userLang = navigator.language || navigator.userLanguage;

@@ -20,12 +20,9 @@
 
 title: Back to Plants
 email: office@back-to-plants.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Our goal is to provide you a vegan kitchen aid, for an easy and fun time while cooking. Therefore, we created an app which pursues an intuitive and minimal approach. No entry or hidden barriers - access our app without a required sign up.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://back-to-plants.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:

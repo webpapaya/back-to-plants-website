@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-language: en
+lang: en
 title: Guidance to vegan happiness
 ---
 

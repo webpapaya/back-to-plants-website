@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impressum
-permalink: /imprint/
+permalink: /de/imprint/
 ---
 
 Der Sitz des Unternehmens befindet sich in Österreich, daher wird das Impressum in deutscher Sprache angeführt. Bei Anfragen oder Unklarheiten können Sie sich an die unten angeführten Kontaktadressen wenden.

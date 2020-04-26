@@ -2,11 +2,27 @@
 layout: post
 title:  "About me"
 date:   2020-03-11 11:08:59 +0100
-excerpt_image: https://place-hold.it/300x200
+excerpt_image: /assets/images/AboutMe_200x300.jpg
 categories: no categoroy
 lang: en
 excerpt: My goal is to share with you the infinitely joy and pleasure of energizing your body with plants, by simply using a handful of nutritional balanced ingredients and some wonderful herbs and spices.
 ---
-My goal is to share with you the infinitely joy and pleasure of energizing your body with plants, by simply using a handful of nutritional balanced ingredients and some wonderful herbs and spices.
+My name is Sophie, I’m 28 years old and live in the beautiful city called Vienna. I’m the inventor of the brand back to plants and truly blessed to share my passion with all of you in the form of an app and a printed cookbook.
 
-I realized that the vegan kitchen is so pure and unbelievable healing, I needed far less to be enriched with happiness and satisfaction.  It helped me mentally and physically to be a better version of myself day by day, my health improved tremendously since I changed to a fully vegan diet 5 years ago and I can only tell you that this way of living is a wonderful enrichment which impacts my whole life in a positive way. 
+But first let’s go back to the roots. Back to where this passion comes from and where it all started. As I played almost my whole life professional golf and was lucky enough to have parents who loved cooking healthy food; nutrition was always an important topic for me. Being a former professional golfer, and part of the model industry one of my highest goals where to be physically and mentally on the highest level I possibly can.
+
+After years of not feeling my best physically, putting too much pressure and stress on me, I tried to not only clear up my mind but also my eating habits. I stopped eating milk products, started to swop cow’s yoghurt with almond yoghurt. Suddenly I had so much more energy, no troubles with my gut health anymore and my recovery improved tremendously. Fuelling my body with energy and pure awareness.
+I started cooking simple plant-based meals daily and felt so much joy and pleasure that I knew I have to share and inspire not only my family and friends when I invited them for brunch or dinner but a lot more.
+
+I researched daily about plant-based diets, bought different kind of cookbooks, but I realized that most of them missed out on one of the most important part of a vegan diet. The majority of the recipes where of course delicious and satisfying but either had a lot of fat / not the healthy fats, included industrial sugar, were not very easy to digest or needed a lot of time to be done. So, I came to the conclusion that vegan does not mean that it is automatically healthy.
+
+With cooking instinctively, I always made sure to have nutritional balanced meals as those meals made me feel the most alive, energized and satisfied. Creating my recipes felt like going back to the roots; the more I minimalized, the simpler my meals got, the better I felt and the more joy it brought to my life.
+
+My highest goals were to fuel my body with nutritional balanced, high quality food without sacrificing on pleasure, time or taste, made by what nature provides.
+
+And this is exactly why I started my heart project “back to plants” in the year of 2019. With recording cooking my meals at home, taking pictures, sharing them online and receiving such an unbelievable positive response I knew, I needed to give it a go. I want to share the infinitely joy and pleasure of energizing your body with plants, by simply using a handful of nutritional balanced ingredients and some wonderful herbs and spices. 
+
+For me, vegan kitchen is so pure and unbelievable healing, I needed far less to be fulfilled with happiness and satisfaction.  It helped me mentally and physically to be a better version of myself day by day. My health improved tremendously since I changed to a fully vegan diet 5 years ago and I can only tell you that this way of living is a wonderful enrichment which impacts my whole life in a positive way. You will not only see a difference in your physical appearance but also in your overall state of mind. For me showing yourself that you care with fuelling your body with fresh and healthy food is what you and your body truly deserves. 
+So, join me on this blessing journey with simply going back to where it all started using my app and upcoming cookbook where I will guide you to vegan happiness.
+
+For everybody and everyone loving simple and nourishing food, a vegan guide to happiness, by me, for you, shared all over the world, for more happy souls and colorful plates full of plants.

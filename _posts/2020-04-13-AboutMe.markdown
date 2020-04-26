@@ -2,7 +2,7 @@
 layout: post
 title:  "About me"
 date:   2020-03-11 11:08:59 +0100
-excerpt_image: /assets/images/AboutMe_200x300.jpg
+excerpt_image: /assets/images/about-me-200x300.jpg
 categories: no category
 lang: en
 excerpt: My goal is to share with you the infinitely joy and pleasure of energizing your body with plants, by simply using a handful of nutritional balanced ingredients and some wonderful herbs and spices.

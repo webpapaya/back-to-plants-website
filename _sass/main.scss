@@ -508,3 +508,20 @@ body {
     grid-column-start: 1;
   }
 }
+
+.app-store-links {
+  display: flex;
+  justify-content: space-around;
+  @media only screen and (min-width: $screen_sm) {
+    justify-content: flex-start;
+  }
+}
+
+
+.app-store-links a {
+  display: block;
+}
+
+.app-store-links img {
+  height: 58px;
+}

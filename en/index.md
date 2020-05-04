@@ -14,6 +14,14 @@ title: Guidance to vegan happiness
     <p class="header--paragraph">
       A simple vegan kitchen with perfectly balanced recipes and a handful of yumminess
     </p>
+
+    <section class="app-store-links">
+      <a target="_blank" href="https://apps.apple.com/de/app/apple-store/id1499220190?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2011-05-24&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;margin:10px;margin-left:0;"></a>
+
+      <a target="_blank" href='https://play.google.com/store/apps/details?id=com.backToPlants.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+    </section>
+
   <form
     action="https://back-to-plants.us19.list-manage.com/subscribe/post?u=1048c4e168940952bbda912da&amp;id=8a430c324d"
     method="post"

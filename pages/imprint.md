@@ -19,7 +19,7 @@ https://pipifein-blog.com/impressum/
 
 Medieninhaber/Autor:
 - Sophie Weilguni
-- Hackenberggasse 43-45 / C8
+- c
 - 1190 Wien
 - +436781225860
 - office@back-to-plants.com

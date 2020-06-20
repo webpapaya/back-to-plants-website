@@ -19,24 +19,14 @@ https://pipifein-blog.com/impressum/
 
 Medieninhaber/Autor:
 - Sophie Weilguni
-- c
+- Siolygasse 24/C8
 - 1190 Wien
 - +436781225860
 - office@back-to-plants.com
 
+Gesellschaft und Haftung:
 
-- Firmenbuchnummer:
-- Firmenbuchgericht:
+- Firmenname: Sophie Weilguni
+- Firmensitz: Österreich (Siolygasse 24/C8, 1190 Wien)
+- GISA-Zahl 32647303
 - Handelsgericht Wien
-- UID-Nr.: ATU
-
-- Behörde gem. ECG:
-- Kammer:
-
-
-- Anwendbare Vorschriften:
-- Österr. Gewerbeordnung (Bundesgesetzblatt)
-
-
-- Geschäftsführer:
-- Bankverbindung:

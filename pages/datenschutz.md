@@ -9,7 +9,7 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 Verantwortlicher und Medieninhaber:
 
 - Sophie Weilguni
-- Hackenberggasse 43-45 / C8
+- Siolygasse 24/C8
 - 1190 Wien
 - Tel.: +43 678 1225860
 

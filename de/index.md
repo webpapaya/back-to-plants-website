@@ -33,8 +33,8 @@ description: Unser Ziel ist es, eine vegane Küchenhilfe zur Verfügung zu stell
     target="_blank"
     novalidate
   >
-    <h2 class="newsletter--heading">Sign-Up und verpasse nicht den Launch</h2>
-    <p class="newsletter--subheading">Erhalte den Download Link als Erstes! (bereits 568 Early-Birds)</p>
+    <h2 class="newsletter--heading">Sign-Up</h2>
+    <p class="newsletter--subheading">Erhalte den Download Link</p>
     <fieldset class="newsletter--channels" name="interestgroup_field">
       <label class="checkbox subfield" for="gdpr_92201">
         <input type="checkbox" id="gdpr_92201" name="gdpr[92201]" value="Y" checked class="av-checkbox "><span>Email</span>

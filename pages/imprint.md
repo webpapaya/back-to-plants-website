@@ -9,7 +9,6 @@ Der Sitz des Unternehmens befindet sich in Österreich, daher wird das Impressum
 Konzept und technische Umsetzung
 - Sophie Weilguni gemeinsam mit
 - Thomas Mayrhofer
-- Sebastian Mack
 
 ## Impressum
 

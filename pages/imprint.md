@@ -14,8 +14,6 @@ Konzept und technische Umsetzung
 
 Offenlegungspflicht gemäß § 25 Mediengesetz (MedienG)
 
-https://pipifein-blog.com/impressum/
-
 Medieninhaber/Autor:
 - Sophie Weilguni
 - Siolygasse 24/C8
